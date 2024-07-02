@@ -7,3 +7,6 @@ If you need any help to fix your code, just call and i will help you fix it.
 Here Is My Work
 - https://github.com/SurroundCoder/laravel-starter-kit
 - https://github.com/SurroundCoder/hotel-booking-system
+
+Ongoing Work
+- Send mass email from excel
